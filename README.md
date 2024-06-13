@@ -7,3 +7,6 @@ A 3D scene spanning multiple windows using three.js and localStorage
    Run a Live Server to run it!
 
 Social Handles @aravinditte
+
+
+![image](https://github.com/aravinditte/Spanning-3d-Windows/assets/119928913/7a1c1016-f9a5-4353-b542-49656bcb0515)
